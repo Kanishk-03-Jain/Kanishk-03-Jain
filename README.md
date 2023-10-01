@@ -3,7 +3,7 @@
 <!--<img align="right" alt="coding" width="400" src="https://github.com/Kanishk-03-Jain/KanishkJain/blob/main/banner.jpg">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanishk-03-Jain&label=Profile%20views&color=0e75b6&style=flat" alt="Kanishk-03-Jain" /> </p>
 
-👨‍💻 A begineer Developer
+- 👨‍💻 A beginner Developer
 <!--- 👨‍💻 A huge AI ML and Cloud Enthusiast 
 
 - ⚡ Front End Web developer and into Open Source
