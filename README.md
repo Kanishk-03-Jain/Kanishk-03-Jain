@@ -1,5 +1,4 @@
-![banner](![github-header-image](https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/ee27a007-c50c-402b-8892-ccac2f332737)
-)
+![banner](https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/ee27a007-c50c-402b-8892-ccac2f332737)
 
 <!--<img align="right" alt="coding" width="400" src="https://github.com/Kanishk-03-Jain/KanishkJain/blob/main/banner.jpg">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanishk-03-Jain&label=Profile%20views&color=0e75b6&style=flat" alt="Kanishk-03-Jain" /> </p>
