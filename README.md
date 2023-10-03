@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="www.linkedin.com/in/kanishk-jain-8a6b31288" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kanishk_Jain" height="30" width="40" /></a>-->
-<img align="center" src="https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/34b11fad-2730-4749-85ce-e3391bdb78aa" alt="Kanishk_Jain" height="30" width="40" /><a href="www.linkedin.com/in/kanishk-jain-8a6b31288" target="_blank">@KanishkJain</a>
+<img align="center" src="https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/34b11fad-2730-4749-85ce-e3391bdb78aa" alt="Kanishk_Jain" height="30" width="40" /><a href="www.linkedin.com/in/kanishk-03-jain" target="_blank">@KanishkJain</a>
 <!--<a href="https://www.instagram.com/kanishkjain_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kanishkjain_03" height="30" width="40" /></a>--><br><br>
 <img align="center" src="https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/cccd2c71-798c-4b12-9e85-6e552bd7fb0b" alt = "KanishkJain_03" height="30" width="40" /><a href="https://www.instagram.com/kanishkjain_03/" target="_blank">@KanishkJain_03</a>
 <!--<a href="https://twitter.com/KANISHK_JAIN_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kanishk_Jain" height="30" width="40" /></a>-->
