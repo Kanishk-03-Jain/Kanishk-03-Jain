@@ -15,6 +15,8 @@
 <p align="left">
 <a href="www.linkedin.com/in/kanishk-jain-8a6b31288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kanishk_Jain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kanishkjain_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kanishkjain_03" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kanishkjain_03/" target="blank"><img align="center" src="![ins](https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/9df863b9-48cc-4cc3-90de-c07ba845cd59)
+" alt="Kanishkjain_03" height="30" width="40" /></a>
 <a href="https://twitter.com/KANISHK_JAIN_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kanishk_Jain" height="30" width="40" /></a>
 
 
