@@ -1,14 +1,15 @@
-![banner](https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/ee27a007-c50c-402b-8892-ccac2f332737)
+## Hey there 👋, I'm [KANISHK JAIN !](https://github.com/Kanishk-03-Jain/)👋
 
 <!--<img align="right" alt="coding" width="400" src="https://github.com/Kanishk-03-Jain/KanishkJain/blob/main/banner.jpg">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanishk-03-Jain&label=Profile%20views&color=0e75b6&style=flat" alt="Kanishk-03-Jain" /> </p>
 
-- 👨‍💻 A beginner Developer
-<!--- 👨‍💻 A huge AI ML and Cloud Enthusiast 
+### Glad to see you here!
 
-- ⚡ Front End Web developer and into Open Source
-  
-- 👩‍💻 LFX Mentee'23 at [Hyperledger](https://www.hyperledger.org/)-->
+I am Kanishk Jain , pursuing Btech Software Engineering from Delhi Technological University . I am a passionate tech enthusiast with expertise in AI/ML. I am always eager to collaborate on projects and explore innovative ideas. Feel free to reach out to me for potential partnerships and collaborations.
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/jainkanishk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 <h3 align="left">Connect with me:</h3>
