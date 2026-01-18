@@ -91,6 +91,9 @@ Like My Work?
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  /> -->
 </div>
 
+<br />
+<br />
+
 [![@Kanishk'sHolopin board](https://holopin.me/kanishk03jain)](https://holopin.io/@kanishk03jain)
 
 
@@ -113,8 +116,9 @@ Like My Work?
 </a>
 
 
-[![Kanishk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanishk-03-Jain&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--[![Kanishk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanishk-03-Jain&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kanishk-03-Jain" alt="kanishk" /></a> </p>-->
 <!--
 **Kanishk-03-Jain/Kanishk-03-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
